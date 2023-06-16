@@ -10,11 +10,11 @@ This is personal learning project of Movie Recommendation System that I used aft
 
 ![Alt text](media/screenshot.png)
 
+##
+### [DATASET LINK: TMDB Movies Dataset kaggle](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k?fbclid=IwAR2MpWrWpcw2QNCv_FZg2l0sjBh9xAvhrqtnZBO9K-QS6PHI1aHkdB6qLa0)
 
-## [DATASET LINK: TMDB Movies Dataset kaggle](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k?fbclid=IwAR2MpWrWpcw2QNCv_FZg2l0sjBh9xAvhrqtnZBO9K-QS6PHI1aHkdB6qLa0)
 
-
-
+##
 
 I have used the cosine similarity metric to search for the similar CONTENT BASED Recommendations.
 
